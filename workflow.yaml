@@ -1,0 +1,4 @@
+name: yuri402-demo
+version: 1.0.0
+entry: src/index.js
+reward_model: per_execution
