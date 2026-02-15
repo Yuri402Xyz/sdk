@@ -2,7 +2,9 @@
 
 **Build yuri402 workflows. Get paid. Discover what works.**  
 The decentralized AI computation layer.
+
 Web : https://yuri402.xyz/
+
 X : https://x.com/Yuri402Xyz
 ---
 
