@@ -1,0 +1,11 @@
+{
+  "name": "yuri402",
+  "version": "1.0.0",
+  "description": "Decentralized AI computation workflow example",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "deploy": "node scripts/deploy.js"
+  },
+  "license": "MIT"
+}
